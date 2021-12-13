@@ -1,0 +1,14 @@
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\bin\Debug\netcoreapp3.1\minvemaksIndeks.exe
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\bin\Debug\netcoreapp3.1\minvemaksIndeks.deps.json
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\bin\Debug\netcoreapp3.1\minvemaksIndeks.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\bin\Debug\netcoreapp3.1\minvemaksIndeks.runtimeconfig.dev.json
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\bin\Debug\netcoreapp3.1\minvemaksIndeks.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\bin\Debug\netcoreapp3.1\minvemaksIndeks.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\minvemaksIndeks\minvemaksIndeks\obj\Debug\netcoreapp3.1\minvemaksIndeks.genruntimeconfig.cache

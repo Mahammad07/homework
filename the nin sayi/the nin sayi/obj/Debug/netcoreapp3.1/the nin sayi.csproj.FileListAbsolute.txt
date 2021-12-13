@@ -1,0 +1,14 @@
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\bin\Debug\netcoreapp3.1\the nin sayi.exe
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\bin\Debug\netcoreapp3.1\the nin sayi.deps.json
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\bin\Debug\netcoreapp3.1\the nin sayi.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\bin\Debug\netcoreapp3.1\the nin sayi.runtimeconfig.dev.json
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\bin\Debug\netcoreapp3.1\the nin sayi.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\bin\Debug\netcoreapp3.1\the nin sayi.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\the nin sayi\the nin sayi\obj\Debug\netcoreapp3.1\the nin sayi.genruntimeconfig.cache

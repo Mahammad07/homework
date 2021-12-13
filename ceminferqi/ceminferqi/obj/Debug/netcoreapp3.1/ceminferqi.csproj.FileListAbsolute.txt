@@ -1,0 +1,14 @@
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\bin\Debug\netcoreapp3.1\ceminferqi.exe
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\bin\Debug\netcoreapp3.1\ceminferqi.deps.json
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\bin\Debug\netcoreapp3.1\ceminferqi.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\bin\Debug\netcoreapp3.1\ceminferqi.runtimeconfig.dev.json
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\bin\Debug\netcoreapp3.1\ceminferqi.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\bin\Debug\netcoreapp3.1\ceminferqi.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\ceminferqi\ceminferqi\obj\Debug\netcoreapp3.1\ceminferqi.genruntimeconfig.cache

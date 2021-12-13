@@ -1,0 +1,5 @@
+C:\Users\mehem\OneDrive\Desktop\homework3\minimum indeks\minimum indeks\obj\Debug\netcoreapp3.1\minimum indeks.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\minimum indeks\minimum indeks\obj\Debug\netcoreapp3.1\minimum indeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homework3\minimum indeks\minimum indeks\obj\Debug\netcoreapp3.1\minimum indeks.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\minimum indeks\minimum indeks\obj\Debug\netcoreapp3.1\minimum indeks.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homework3\minimum indeks\minimum indeks\obj\Debug\netcoreapp3.1\minimum indeks.csproj.CoreCompileInputs.cache

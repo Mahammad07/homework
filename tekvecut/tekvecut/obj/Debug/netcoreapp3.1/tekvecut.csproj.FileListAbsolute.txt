@@ -1,0 +1,14 @@
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\bin\Debug\netcoreapp3.1\tekvecut.exe
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\bin\Debug\netcoreapp3.1\tekvecut.deps.json
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\bin\Debug\netcoreapp3.1\tekvecut.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\bin\Debug\netcoreapp3.1\tekvecut.runtimeconfig.dev.json
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\bin\Debug\netcoreapp3.1\tekvecut.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\bin\Debug\netcoreapp3.1\tekvecut.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.genruntimeconfig.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\tekvecut\tekvecut\obj\Debug\netcoreapp3.1\tekvecut.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\bin\Debug\netcoreapp3.1\studentInfo.exe
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\bin\Debug\netcoreapp3.1\studentInfo.deps.json
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\bin\Debug\netcoreapp3.1\studentInfo.runtimeconfig.json
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\bin\Debug\netcoreapp3.1\studentInfo.runtimeconfig.dev.json
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\bin\Debug\netcoreapp3.1\studentInfo.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\bin\Debug\netcoreapp3.1\studentInfo.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.dll
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.pdb
+C:\Users\mehem\OneDrive\Desktop\homework3\studentInfo\studentInfo\obj\Debug\netcoreapp3.1\studentInfo.genruntimeconfig.cache
